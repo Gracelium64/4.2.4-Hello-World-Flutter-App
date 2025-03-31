@@ -67,6 +67,7 @@ class MainApp extends StatelessWidget {
               ),
              ),
             Divider(indent: 75, endIndent: 75, height: 500, color: Color.fromARGB(0, 0, 0, 0),),
+            // how do i place an object at the bottom without an ugly invisible divider?... //
             Column(
             children: [
                    Text(
