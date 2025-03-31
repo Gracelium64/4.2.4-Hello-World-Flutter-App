@@ -87,6 +87,3 @@ class MainApp extends StatelessWidget {
   );
  }
 }
-
-//ein Scaffold mit AppBar, eine Column, eine Row, mindestens einen Text, 
-//einen Container, eine SizedBox und einen Divider.
